@@ -1,0 +1,56 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <table style="border: 2px solid black";>
+            <thead>
+                <tr>
+
+                   <td style="border: 2px solid rgb(3, 3, 3); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">ID</td>
+                   <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Nome</td>
+                   <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Idade</td>
+                   <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">Endereço</td>
+                   <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">Sexo</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">1</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Pedro henrique</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">16</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Rua Goiaís, 105</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Masculino</td>
+                </tr>
+                <tr>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">2</td>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Bob Construtor</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">35</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Rua Gabriel Satismo, 51</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Masculino</td>
+                    
+                </tr>
+                <tr>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">3</td>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Clotilde</td>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">69</td>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Condomínio Santa Vitória, Casa 7-1</td>
+                    <td style="border: 2px solid black; background-color: rgb(255, 255, 255);color: rgb(0, 0, 0);">Feminino</td>
+                </tr>
+                <tr>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">4</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">Freddie Mercury</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">45</td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">Sep Garden Lodge, Logan Place 1 </td>
+                    <td style="border: 2px solid rgb(0, 0, 0); background-color: rgb(255, 255, 255);color:rgb(0, 0, 0)t;">Masculino</td>
+                </tr>
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+        </table>
+    </body>
+    <footer>
+
+    </footer>
+</html> 
